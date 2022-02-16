@@ -1,5 +1,8 @@
 # Create an NFT with Python
 
+<img width="913" alt="Screen Shot 2022-02-16 at 15 31 12" src="https://user-images.githubusercontent.com/5554576/154209170-d14eea02-e6a3-4c57-a25d-85ee8521604d.png">
+
+
 ![Screen Shot 2022-02-16 at 15 15 08](https://user-images.githubusercontent.com/5554576/154207259-7acb2025-ef75-4f0e-88b8-4d3ebb07636b.png)
 
 
